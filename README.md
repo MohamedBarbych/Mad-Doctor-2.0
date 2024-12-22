@@ -1,6 +1,6 @@
 # MAD DOCTOR Game 🎮
 
-MAD DOCTOR is a 2D game developed using Unity, combining fun and logic-based challenges. Players progress through multiple levels, solving puzzles inspired by **graph theory** and **data structures and algorithms (DSA)**. This game is designed to test and enhance problem-solving skills while providing an engaging gameplay experience.
+MAD DOCTOR is a 2D game developed using Unity, combining fun and logic-based challenges. Players progress through multiple levels, solving puzzles inspired by **graph theory** and **data structures and algorithms (DSA)**v. This game is designed to test and enhance problem-solving skills while providing an engaging gameplay experience.
 
 ---
 
